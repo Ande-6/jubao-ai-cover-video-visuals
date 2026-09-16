@@ -1,0 +1,4 @@
+interface:
+  display_name: "Jubao AI 封面与视频配图助手"
+  short_description: "规划并生成连续一致的封面、分镜配图与多画幅视觉资产"
+  default_prompt: "使用 $jubao-ai-cover-video-visuals 为这份主题或脚本规划封面、视频分镜配图和可执行提示词。"
